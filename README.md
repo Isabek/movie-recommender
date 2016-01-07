@@ -2,4 +2,4 @@
 
 It is a Movie Recommender System on Spark. It uses Collobrative Filtering.
 
-Also it containes simple example for Spark modules.
+Also it containes simple examples for Spark modules.
